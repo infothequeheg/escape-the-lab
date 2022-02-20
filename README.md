@@ -40,4 +40,4 @@ Pour imprimer les fichiers STL, ouvrez-les dans le *slicer* de votre imprimante 
 
 Le plateau de jeu peut être modifié à partir des fichiers SVG ou PDF et imprimé à partir des fichiers PNG ou PDF.
 
-![](photo_jeu_escape-the-lab.jpg)
+![](escape_the_lab_photo_du_jeu.jpg)
