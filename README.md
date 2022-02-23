@@ -24,14 +24,12 @@ La composition complète du jeu est la suivante :
 * 8 pièces de jeu (bactéries)
 * les [règles du jeu](escape_the_lab_regles_du_jeu.pdf)
 
-De plus, pour compléter votre jeu, il vous faudra une boîte de Petri 9 cm de diamètre qui permettra de rassembler les bactéries au début du jeu, ainsi qu'un dé à 6 faces de couleur (bleu, jaune, rouge, vert et 2x blanc).
-
-Une liste Excel
+De plus, pour compléter votre jeu, il vous faudra une boîte de Petri de 9 cm de diamètre qui permettra de rassembler les bactéries au début du jeu, ainsi qu'un dé à 6 faces de couleur (bleu, jaune, rouge, vert et 2x blanc).
 
 ## fichiers
 
 Le fichier PDF éditable dans Adobe Illustrator (conservation des calques, etc.) permet de modifier et d'imprimer les cartes du jeu.   
-Vous pouvez imprimer les cartes à partir du fichier `toutes_les_cartes_v2.pdf`, imprimez 4 pages par feuille, recto-verso (la feuille doit être retournée par le long côté) et paramétrant l'ordre des pages sur "horizontal".
+Vous pouvez imprimer les cartes à partir du fichier `toutes_les_cartes_v2.pdf`, 4 pages par feuille, recto-verso (la feuille doit être retournée par le bord long).
 
 Les fichiers STL permettent de modifier les pièces (bactéries) du jeu en 3D.   
 Pour imprimer les fichiers STL, ouvrez-les dans le *slicer* de votre imprimante et générez le fichier gcode propre à votre imprimante 3D. Pour imprimer toutes les pièces nécessaires à un jeu complet, mettez 8 exemplaires des pièces sur le même plateau.
