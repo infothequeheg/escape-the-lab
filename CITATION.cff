@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: Escape the lab
+message: 'If you use this game, please cite it as below.'
+type: software
+authors:
+  - given-names: Infotheque HEG
+    email: infotheque@hesge.ch
+
+date-released: 2022-02-20
+license: "CC BY 4.0"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/infothequeheg/escape-the-lab"
+version: "2"
